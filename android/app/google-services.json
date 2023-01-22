@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546798052504",
+    "project_id": "growpayapp",
+    "storage_bucket": "growpayapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546798052504:android:7a5e54df60c938cba25ced",
+        "android_client_info": {
+          "package_name": "com.example.growpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546798052504-j0ngrmaku6irtcav2qtf5g6m862d88j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPniGirEPinGI0zNoRdFYvB578Pv8F3DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546798052504-j0ngrmaku6irtcav2qtf5g6m862d88j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

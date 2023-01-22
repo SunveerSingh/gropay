@@ -18,7 +18,7 @@ class _AssetsScreenState extends State<AssetsScreen> {
   double topContainer = 0;
   List<Widget> itemsData = [];
   void getPostsData() {
-    List<dynamic> responseList = JOB_DATA;
+    List<dynamic> responseList = CRYPTO_DATA;
     List<Widget> listItems = [];
     responseList.forEach((post) {
       listItems.add(Container(
